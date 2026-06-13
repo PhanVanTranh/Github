@@ -1,4 +1,4 @@
-## ** ✨ Phần 01 Git config**
+## **✨ Phần 01 Git config**
 
 Set config
 ```bash
@@ -12,7 +12,7 @@ Get config
 git config --global user.name
 git config --global user.email
 ```
-## ** ✨ Phần 02 Creating/Clone repo**
+## **✨ Phần 02 Creating/Clone repo**
 
 Tạo git trên máy tính cục bộ (Client)
 
@@ -66,7 +66,7 @@ Xóa file
 git rm - cached FILE_NAME
 ```
 
-## ** ✨ Phần 04 Committing**
+## **✨ Phần 04 Committing**
 
 Hiển thị tất cả các commits chi tiết
 
@@ -89,7 +89,7 @@ Tạo commit
 git commit -m "comment"
 ```
 
-## ** ✨ Phần 05 Git stash **
+## **✨ Phần 05 Git stash**
 
 *. Đang code dở file main.cpp*
 *. Cần chuyển sang nhánh khác để sửa bug gấp*
@@ -130,7 +130,7 @@ Xóa mọi stash
 git stash clear   # Xóa vĩnh viễn TOÀN BỘ các stash đang có
 ```
 
-## ** ✨ Phần 06 Git ignore **
+## **✨ Phần 06 Git ignore**
 
 ```text
 Ex:
