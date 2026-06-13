@@ -144,19 +144,19 @@ Ex:
 Tạo một nhánh (branch) mới
 
 ```bash
-git branch "Branch_name"
+git branch Branch_name
 ```
 
 Chuyển sang nhánh mới
 
 ```bash
-git checkout "Branch_name"
+git checkout Branch_name
 ```
 
 Tạo một nhánh mới và chuyển sang nhánh đó luôn
 
 ```bash
-git checkout -b "Branch_name"
+git checkout -b Branch_name
 ```
 
 Đẩy file lên nhánh
