@@ -91,8 +91,8 @@ git commit -m "comment"
 
 ## **✨ Phần 05 Git stash**
 
-*. Đang code dở file main.cpp*
-*. Cần chuyển sang nhánh khác để sửa bug gấp*
+* Đang code dở file main.cpp
+* Cần chuyển sang nhánh khác để sửa bug gấp
 
 Lưu vào stash
 
