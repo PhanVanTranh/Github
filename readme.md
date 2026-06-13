@@ -51,7 +51,7 @@ Check status
 git status
 ```
 
-Thêm file vào Repi github
+Thêm file vào Repo github
 
 ```bash
 git add FILE_NAME # chỉ add các file cần
