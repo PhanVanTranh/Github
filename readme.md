@@ -53,8 +53,8 @@ git status
 
 Thêm file vào Repi github
 
-```bash
-git add FILE_NAME # chỉ add các file cần
+```json
+"git add FILE_NAME" # chỉ add các file cần
 ```
 ```bash
 git add .         # add tất cả các file"
@@ -62,8 +62,8 @@ git add .         # add tất cả các file"
 
 Xóa file
 
-```bash
-git rm - cached FILE_NAME
+```json
+"git rm --cached FILE_NAME"
 ```
 
 ## **✨ Phần 04 Committing**
