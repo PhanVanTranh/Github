@@ -139,4 +139,31 @@ Ex:
 *.txt
 ```
 
+## **✨ Phần 07 Branch**
+
+Tạo một nhánh (branch) mới
+
+```bash
+git branch "Branch_name"
+```
+
+Chuyển sang nhánh mới
+
+```bash
+git checkout "Branch_name"
+```
+
+Tạo một nhánh mới và chuyển sang nhánh đó luôn
+
+```bash
+git checkout -b "Branch_name"
+```
+
+Đẩy file lên nhánh
+
+```bash
+git push origin Branh_name
+```
+
+
 
